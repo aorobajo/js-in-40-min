@@ -1,0 +1,25 @@
+JavaScript es el lenguaje mas popular del mundo por el hecho
+de que es el unico lenguaje que corre en el navegador.
+
+Yo coloco el codigo de un sitio web antes de que el sitio web cargue.
+
+type = Es el atributo que se el otorga por medio de html
+
+Cuando se declaran funciones por medio de la consola, 
+el navegador las toma y se pueden buscar, por ejemplo
+
+>>suma(2,3)
+5
+>>suma;
+Function suma(a,b)
+>>suma("Andrés","Orobaj")
+Andrés Orobajo
+
+NaN = Not A a Number
+Porque los str se concatenan.
+
+
+ 
+
+
+
